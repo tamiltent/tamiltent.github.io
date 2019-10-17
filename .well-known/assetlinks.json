@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.kodebot.tamil.tent.internet.radio.fm.tamil.news.podcast.books",
+      "sha256_cert_fingerprints":
+      ["8F:94:8C:75:10:6C:99:24:A3:94:B2:F6:5F:28:36:87:61:E2:8D:6C:F6:18:DB:BA:37:FA:5D:66:22:38:34:8C"]
+    }
+  }]
